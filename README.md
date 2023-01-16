@@ -6,10 +6,10 @@
 
 ### Padrões de arquivos
 
-	relatorio_XX_XX.pdf
+	relatorio_XX_X.pdf
 
 	Os relatorios devem seguir o padrão apresentado acima.
-	Ex: grupo 1 - relatorio 3 -> relatorio_03_01.pdf
+	Ex: grupo 1 - relatorio 3 -> relatorio_03_1.pdf
 
 ### Grupos
 
