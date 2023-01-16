@@ -2,16 +2,16 @@
 
 	d-x
 
-	Cada grupo deve commitar os seus arquivos apensa na sua pasta.
+	Cada dupla deve commitar os seus arquivos apensa na sua pasta.
 
 ### Padrões de arquivos
 
 	relatorio_XX_X.pdf
 
 	Os relatorios devem seguir o padrão apresentado acima.
-	Ex: grupo 1 - relatorio 3 -> relatorio_03_1.pdf
+	Ex: dupla 1 - relatorio 3 -> relatorio_03_1.pdf
 
-### Grupos
+### Duplas
 
 1. Anne Capdeville & Renata Quadros
 2. Thomas Queiroz & Murillo Lobo
