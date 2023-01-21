@@ -1,6 +1,6 @@
 # Engenharia Econômica - 2022.2
 
-Repositório destinado a orientação e correção do trabalho da diciplina de Engenharia Econômica (_**UnB**, semestre 2022.2_).
+Repositório destinado a orientação e correção do trabalho da diciplina de Engenharia Econômica lecionada pelo Prof. Dr. Ricardo Matos Chaim (_**UnB**, semestre 2022.2_).
 
 O trabalho tem como propósta a formulação, pelos alunos, de um plano de aposentadoria, baseando-se em todos os conteúdos vistos em aula, com foco em aplicações financeiras.
 
