@@ -14,7 +14,7 @@ O trabalho tem como proposta a formulação, pelos alunos, de um plano de aposen
 
     `relatorio_XX_G.pdf`
 
-    Os relatórios devem seguir o padrão apresentado acima, no qual 'XX' é o número do relatório e 'D' da dupla em questão.
+    Os relatórios devem seguir o padrão apresentado acima, no qual 'XX' é o número do relatório e 'G' do grupo em questão.
     Ex: grupo 1 - relatório 3 -> relatorio_03_1.pdf
 
 ## Grupos
