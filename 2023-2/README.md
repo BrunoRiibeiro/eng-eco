@@ -1,4 +1,4 @@
-# Engenharia Econômica - 2022.2
+# Engenharia Econômica - 2023.2
 
 Diretório destinado à orientação e correção do trabalho da disciplina de Engenharia Econômica lecionada pelo Prof. Dr. Ricardo Matos Chaim (_UnB_, semestre 2023.2).
 
